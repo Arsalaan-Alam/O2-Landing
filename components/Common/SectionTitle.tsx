@@ -26,7 +26,7 @@ const SectionTitle = ({
           {title} 
         </h2>
         <p className="text-base !leading-relaxed text-body-color md:text-lg">
-          {paragraph} <a href={link} className="text-blue-500" target="_blank">{sumdata}</a>
+          {paragraph} <a href={link} className="text-blue-500">{sumdata}</a>
         </p>
       </div>
     </>
