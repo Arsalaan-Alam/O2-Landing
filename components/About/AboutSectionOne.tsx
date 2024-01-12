@@ -24,9 +24,11 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="Our goal is to develop a confidential Oracle solution that ensures decentralization, security, and ease of use for users and developers alike"
+                title="The Supreme Oracle Service is coming soon!"
+                paragraph="Our goal is to develop a confidential Oracle solution that ensures decentralization, security, and ease of use for users and developers alike. Join the waitlist "
                 mb="44px"
+                link="https://calendly.com/arsalaanalam/30min"
+                sumdata = "now!"
               />
 
               <div
